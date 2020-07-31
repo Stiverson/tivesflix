@@ -2,11 +2,11 @@
   "categorias": [
     {
       "titulo": "Tives-Cast",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://www.youtube.com/watch?v=Q93yNPfnwTw&feature=youtu.be",
       "cor": "red",
       "link_extra": {
         "text": "O PodCast Mais inusitado esta chegando",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/watch?v=Q93yNPfnwTw&feature=youtu.be"
       },
       "videos": [
         {
@@ -14,37 +14,37 @@
           "url": "https://www.youtube.com/watch?v=i_i9YR7vScw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Teaser teaser TivesCast",
+          "url": "https://www.youtube.com/watch?v=Q93yNPfnwTw&feature=youtu.be"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "",
+          "url": ""
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "url": ""
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "url": ""
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "url": ""
         },
         {
           "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "url": ""
         },
         {
           "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "url": ""
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Filmes",
       "cor": "red",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -68,40 +68,52 @@
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
         }, 
         {
-          "titulo": "Usando Git Direito",
+          "titulo": "",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Dica de musicas ",
       "cor": "red",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Se liga nesses som",
+        "url": "https://www.youtube.com/watch?v=okpwnSwo_LA"
       },
       "videos": [
         {
           "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "url": "https://www.youtube.com/watch?v=okpwnSwo_LA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Foo Fighters Meets 70's Bobby Caldwell - Live Looping Mashup by Elise Trouw",
+          "url": "https://www.youtube.com/watch?v=Gl9GtO_vQxw&list=RDGl9GtO_vQxw&index=7"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Childish Gambino - Feels Like Summer (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=F1B9Fk_SgI0&feature=youtu.be"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+          "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU&feature=youtu.be"
+        },
+        {
+          "titulo": "The Weeknd - Blinding Lights",
+          "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+        },
+        {
+          "titulo": "The Weeknd - Blinding Lights",
+          "url": "https://www.youtube.com/watch?v=FGBhQbmPwH8&feature=youtu.be"
         }
       ]
     },
     {
       "titulo": "Dicas de Filmes do Momento ",
       "cor": "red",
+      "link_extra": {
+        "text": "Dicas de Filmes do Tives",
+        "url": ""
+      },
       "videos": [
         {
           "titulo": "Spider-Man-INTO THE SPIDER-VERSE",
@@ -152,32 +164,32 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "game Play no Xbox-One",
       "cor": "red",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Aventuras de um player convencional",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "O dia que dei um tiro de sorte no GTAV",
+          "url": "https://www.youtube.com/watch?v=olVC7Svx-Qw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Se aventurando em Ori and The blind forest",
+          "url": "https://www.youtube.com/watch?v=Ss3dmy-mizU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Zuando o GTA com o Carlos Santos",
+          "url": "https://www.youtube.com/watch?v=hB5Y--DG2IU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Sekiro e o Boss",
+          "url": "https://www.youtube.com/watch?v=8E80hWo4-C8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Na Balada",
+          "url": "https://www.youtube.com/watch?v=y2zixEilMQ8"
         }
       ]
     }
