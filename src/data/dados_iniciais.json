@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Tives-Cast",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "red",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "O PodCast Mais inusitado esta chegando",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Os bandidos sempre se dão mal - Game Play spider man PS4",
+          "url": "https://www.youtube.com/watch?v=i_i9YR7vScw"
         },
         {
           "titulo": "SEO com React",
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "red",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "red",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -100,60 +100,60 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Dicas de Filmes do Momento ",
+      "cor": "red",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Spider-Man-INTO THE SPIDER-VERSE",
+          "url": "https://www.youtube.com/watch?v=ii3n7hYQOl4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Secret Life of Walter Mitty ",
+          "url": "https://www.youtube.com/watch?v=HddkucqSzSM"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Yesterday",
+          "url": "https://www.youtube.com/watch?v=Yyk9N40uIFs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Jumanji Next Level",
+          "url": "https://www.youtube.com/watch?v=Gz0lJz_ldRo"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Games e Gameplay",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Games e games plays pra você curtir",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Jogando Spider-man PS4",
+          "url": "https://www.youtube.com/watch?v=i_i9YR7vScw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Game Play- god of war",
+          "url": "https://www.youtube.com/watch?v=iiWcaahcn80&t=136s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Ori and the blind Forest",
+          "url": "https://www.youtube.com/watch?v=cklw-Yu3moE&t=23s"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Zelda Breath of the wild",
+          "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Last Of Us",
+          "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "red",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"

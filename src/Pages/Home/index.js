@@ -1,11 +1,11 @@
 import React from 'react';
-import Menu from './componentes/Menu'
-import dadosIniciais from './data/dados_iniciais.json';
-import BannerMain from './componentes/componentes/BannerMain';
-import Carousel from './componentes/componentes/Carousel';
-import Footer from './componentes/componentes/Footer';
+import Menu from '../../componentes/Menu'
+import dadosIniciais from '../../data/dados_iniciais.json';
+import BannerMain from '../../componentes/componentes/BannerMain';
+import Carousel from '../../componentes/componentes/Carousel';
+import Footer from '../../componentes/componentes/Footer';
 
-function App() {
+function Home() {
   return (
 
     
@@ -15,7 +15,7 @@ function App() {
       <BannerMain
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"Em breve um video Certo ^^."}
+      videoDescription={"Game Play de um jogo de Respeito."}
       />
 
       <Carousel 
@@ -46,4 +46,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
