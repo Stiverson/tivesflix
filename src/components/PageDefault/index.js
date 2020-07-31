@@ -11,7 +11,7 @@ const Main = styled.main`
   padding-left: 5%;
   padding-right: 5%;
 `;
-/* testetetete  */
+/* testetetete*/
 
 function PageDefault({ children }) {
   return (
