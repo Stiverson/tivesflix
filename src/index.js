@@ -3,11 +3,10 @@ import ReactDOM from 'react-dom';
 import '../src/index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Home from './Pages/home';
-import CadastroVideo from './Pages/cadastro/video';
-import CadastroCategoria from './Pages/cadastro/categoria';
-// novo commit
-//hhhh
+import Home from './pages/home';
+import CadastroVideo from './pages/cadastro/video';
+import CadastroCategoria from './pages/cadastro/categoria';
+
 
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
@@ -43,4 +42,5 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')
+
 );
