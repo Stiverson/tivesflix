@@ -4,8 +4,8 @@ import '../src/index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/home';
-import CadastroVideo from './pages/cadastro/Video';
-import CadastroCategoria from './pages/cadastro/Categoria';
+import CadastroVideo from './pages/cadastro/video';
+import CadastroCategoria from './pages/cadastro/categoria';
 // novo commit
 //
 
