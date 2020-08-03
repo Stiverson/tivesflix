@@ -1,4 +1,4 @@
-import React from 'react';
+import React from './node_modules/react';
 import Menu from '../../components/Menu'
 import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
