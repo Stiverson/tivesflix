@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import '../src/index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Home from './pages/home';
+import Home from './Pages/home';
 import CadastroVideo from './pages/cadastro/video';
 import CadastroCategoria from './pages/cadastro/categoria';
 // novo commit
