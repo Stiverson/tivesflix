@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import '../src/index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Home from './Pages/home';
-import CadastroVideo from './Pages/cadastro/video';
-import CadastroCategoria from './Pages/cadastro/categoria';
+import Home from './pages/Home';
+import CadastroVideo from './pages/Cadastro/Video';
+import CadastroCategoria from './pages/Cadastro/Categoria';
 // novo commit
 //hhhh
 
@@ -19,7 +19,7 @@ const Pagina404 = () => (
       Ou <a href="https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej">aprender a fazer o jogo</a>
     </p>
     {/*
-      Pessoal, quem quiser fazer o desafio do Flappy Bird, da pra usar esse iframe aqui: 
+      Pessoal, quem quiser fazer o desafio do Flappy Bird, da pra usar esse iframe aqui:
       - https://codepen.io/omariosouto/pen/pogmdGE
 
       E quem quiser programar o jogo:
