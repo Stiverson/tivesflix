@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import '../src/index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Home from '../src/pages';
+import Home from '../../tivesflix/src/pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 // novo commit
-//testetetete
+//
 
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
