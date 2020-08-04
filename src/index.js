@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import '../src/index.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import CadastroVideo from './pages/Cadastro/video';
-import CadastroCategoria from './pages/Cadastro/categoria';
+import CadastroVideo from './pages/Cadastro/Video';
+import CadastroCategoria from './pages/Cadastro/Categoria';
 
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
