@@ -92,7 +92,7 @@ function CadastroCategoria() {
           Cadastrar
         </button>
       </form>
-      
+
 
       <ul>
         {categorias.map((categoria, indice) => {

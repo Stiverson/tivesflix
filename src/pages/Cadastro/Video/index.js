@@ -14,4 +14,4 @@ function CadastroVideo() {
   )
 }
 
-export default CadastroVideo; 
+export default CadastroVideo;
