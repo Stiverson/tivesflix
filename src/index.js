@@ -1,20 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import '../src/index.css';
-
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-<<<<<<< HEAD
 import Home from './pages/home';
 import CadastroVideo from './pages/cadastro/video';
 import CadastroCategoria from './pages/cadastro/categoria';
 
-=======
-import Home from './pages/Home';
-import CadastroVideo from './pages/Cadastro/Video';
-import CadastroCategoria from './pages/Cadastro/Categoria';
-// novo commit
-//hhhh
->>>>>>> 2fcdaa6ff08fa5d0203825c5a85d5df4c866d9d6
+
+
 
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
@@ -50,9 +43,8 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')
-<<<<<<< HEAD
+
 
 );
-=======
-);
->>>>>>> 2fcdaa6ff08fa5d0203825c5a85d5df4c866d9d6
+
+

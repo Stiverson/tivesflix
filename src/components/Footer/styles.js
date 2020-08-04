@@ -1,5 +1,11 @@
 import styled from 'styled-components';
 
+export const LogoFooterImage = styled.img`
+  max-width: 280px;
+  @media (max-width: 800px) {
+    max-width: 200px;
+  }
+`;
 
 export const FooterBase = styled.footer`
   background: var(--black);
