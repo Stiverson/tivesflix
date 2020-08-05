@@ -1,4 +1,4 @@
-import styled from './node_modules/styled-components';
+import styled from '../../../node_modules/styled-components';
 
 export const LogoFooterImage = styled.img`
   max-width: 280px;

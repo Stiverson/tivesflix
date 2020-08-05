@@ -1,5 +1,5 @@
-import React from './node_modules/react';
-import { Link } from './node_modules/react-router-dom';
+import React from '../../../node_modules/react';
+import { Link } from '../../../node_modules/react-router-dom';
 import { FooterBase, LogoFooterImage } from './styles';
 import LogoFooter from '../../assets/img/Logo.png';
 
