@@ -22,23 +22,23 @@
           "url": ""
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "",
           "url": ""
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "titulo": "",
           "url": ""
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "titulo": "",
           "url": ""
         },
         {
-          "titulo": "Novidades do Angular v9",
+          "titulo": "",
           "url": ""
         },
         {
-          "titulo": "Base para aprender os frameworks",
+          "titulo": "",
           "url": ""
         }        
       ]
@@ -77,12 +77,12 @@
       "titulo": "Dica de musicas ",
       "cor": "red",
       "link_extra": {
-        "text": "Se liga nesses som",
+        "text": "Se liga nesses Soms",
         "url": "https://www.youtube.com/watch?v=okpwnSwo_LA"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
+          "titulo": "Wild World - Cat Stevens - FUNK cover feat. Rett Madison!!",
           "url": "https://www.youtube.com/watch?v=okpwnSwo_LA"
         },
         {
@@ -134,11 +134,11 @@
       ]
     },
     {
-      "titulo": "Games e Gameplay",
+      "titulo": "Games e Gameplay do Tives",
       "cor": "red",
       "link_extra": {
         "text": "Games e games plays pra você curtir",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "url": ""
       },
       "videos": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "titulo": "game Play no Xbox-One",
+      "titulo": "Game Play no Xbox-One",
       "cor": "red",
       "link_extra": {
         "text": "Aventuras de um player convencional",
