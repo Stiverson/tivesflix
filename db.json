@@ -44,6 +44,29 @@
         "text": "Aventuras de Um player Convencional no PS4",
         "url": ""
       }
+    },
+    {
+      "descricao": "hh",
+      "cor": "#ba0d0d",
+      "id": 6
+    },
+    {
+      "descricao": "",
+      "cor": "",
+      "id": 7
+    },
+    {
+      "descricao": "ffff",
+      "cor": "#4c1e4d",
+      "id": 8
+    },
+    {
+      "cor": "#424005",
+      "link_extra": {
+        "text": "hhhh",
+        "URL_TOP": "/"
+      },
+      "id": 9
     }
   ],
   "videos": [
@@ -214,6 +237,12 @@
       "url": "https://www.youtube.com/watch?v=2reK8k8nwBc",
       "categoriaId": 4,
       "id": 28
+    },
+    {
+      "titulo": "hhhh",
+      "url": "gffoifgjiof",
+      "categoriaId": 3,
+      "id": 29
     }
   ]
 }

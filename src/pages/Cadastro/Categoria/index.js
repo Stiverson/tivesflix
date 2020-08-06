@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import useForm from '../../../hooks/useForm';
+import categoriasRepository from '../../../repositories/categorias';
 
 function CadastroCategoria() {
+  const history = useHistory();
   const valoresIniciais = {
     nome: '',
     descricao: '',
@@ -20,7 +22,7 @@ function CadastroCategoria() {
     const URL_TOP = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
       : 'https://tives-flix.herokuapp.com/categorias';
-  
+
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -29,7 +31,7 @@ function CadastroCategoria() {
         ]);
       });
 
-    
+
   }, []);
 
   return (
@@ -45,6 +47,25 @@ function CadastroCategoria() {
           ...categorias,
           values,
         ]);
+
+        clearForm();
+
+        categoriasRepository.create({
+
+          titulo: values.titulo,
+          cor: values.cor,
+          link_extra: {
+             text: values.descricao ,
+             URL_TOP: "/"
+            
+            },
+          
+        })
+          .then(() => {
+            console.log('Cadastrou com sucesso!');
+            history.push('/');
+          });
+
 
         clearForm();
       }}
