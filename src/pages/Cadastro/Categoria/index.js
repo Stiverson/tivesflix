@@ -52,11 +52,11 @@ function CadastroCategoria() {
 
         categoriasRepository.create({
 
-          titulo: values.titulo,
+          titulo: values.nome,
           cor: values.cor,
           link_extra: {
              text: values.descricao ,
-             URL_TOP: "/"
+             URL_TOP: ""
             
             },
           

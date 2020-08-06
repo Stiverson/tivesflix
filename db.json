@@ -24,7 +24,7 @@
       "cor": "red",
       "link_extra": {
         "text": "Dica de Filmes Do Tives",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "url": ""
       }
     },
     {
@@ -46,34 +46,30 @@
       }
     },
     {
-      "descricao": "hh",
-      "cor": "#ba0d0d",
+      "titulo": "Amigo com grande Talento",
+      "cor": "#efa301",
+      "link_extra": {
+        "text": "Videos de amigos com talentos maravilhosos",
+        "URL_TOP": ""
+      },
       "id": 6
     },
     {
-      "descricao": "",
-      "cor": "",
-      "id": 7
-    },
-    {
-      "descricao": "ffff",
-      "cor": "#4c1e4d",
-      "id": 8
-    },
-    {
-      "cor": "#424005",
+      "titulo": "NonSense ",
+      "cor": "#0db0d9",
       "link_extra": {
-        "text": "hhhh",
-        "URL_TOP": "/"
+        "text": "Videos bacanas pra gente rir .",
+        "URL_TOP": ""
       },
-      "id": 9
+      "id": 7
     }
   ],
   "videos": [
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Os bandidos não se deram bem",
+      "titulo": "Bem Vindo ao Tivesflix",
+      "description": "Será que agora vai esse Projeto o Verdadeiro vídeo esta sendo editado",
       "url": "https://www.youtube.com/watch?v=i_i9YR7vScw"
     },
     {
@@ -81,36 +77,6 @@
       "categoriaId": 1,
       "titulo": "Teaser teaser TivesCast",
       "url": "https://www.youtube.com/watch?v=Q93yNPfnwTw&feature=youtu.be"
-    },
-    {
-      "id": 3,
-      "categoriaId": 1,
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "id": 4,
-      "categoriaId": 1,
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "id": 5,
-      "categoriaId": 1,
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "id": 7,
-      "categoriaId": 1,
-      "titulo": "",
-      "url": ""
     },
     {
       "id": 8,
@@ -243,6 +209,66 @@
       "url": "gffoifgjiof",
       "categoriaId": 3,
       "id": 29
+    },
+    {
+      "titulo": "Everybody Wants To Rule The World - Tears For Fears (Cover Eden Sena)",
+      "url": "https://www.youtube.com/watch?v=vT_CdqKjZ3g",
+      "categoriaId": 2,
+      "id": 30
+    },
+    {
+      "titulo": "hhhh",
+      "url": "https://www.youtube.com/watch?v=vT_CdqKjZ3g",
+      "categoriaId": 6,
+      "id": 31
+    },
+    {
+      "titulo": "Me Encontra - Charlie Brown Jr. (Cover Eden Sena)",
+      "url": "https://www.youtube.com/watch?v=0cT9VH9VTg0",
+      "categoriaId": 2,
+      "id": 32
+    },
+    {
+      "titulo": "Jeremy - Pearl Jam (Cover Eden Sena)",
+      "url": "https://www.youtube.com/watch?v=e35ER-KKwLc",
+      "categoriaId": 6,
+      "id": 33
+    },
+    {
+      "titulo": "How You Remind Me - Nickelback (Cover Eden Sena feat. Ciça Moreira)",
+      "url": "https://www.youtube.com/watch?v=MnW3-LhZEFc",
+      "categoriaId": 6,
+      "id": 34
+    },
+    {
+      "titulo": "Tempo Perdido - Legião Urbana (Cover Eden Sena)",
+      "url": "https://www.youtube.com/watch?v=k9Pw_DSCAQY",
+      "categoriaId": 6,
+      "id": 35
+    },
+    {
+      "titulo": "COMO EU ACHO QUE VAI SER VINGADORES ULTIMATO",
+      "url": "https://www.youtube.com/watch?v=or_LBJ3Cqvo",
+      "categoriaId": 7,
+      "id": 36
+    },
+    {
+      "titulo": "Mongo Ball Z",
+      "url": "https://www.youtube.com/watch?v=T_HCjihcDsQ",
+      "categoriaId": 7,
+      "id": 37
+    },
+    {
+      "titulo": "Sasuke e Sakura",
+      "url": "https://www.youtube.com/watch?v=CkrTWTxgf1k",
+      "categoriaId": 7,
+      "id": 38
+    },
+    {
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=C86pXtUsXBY&t=21s",
+      "categoriaId": 7,
+      "id": 39
     }
   ]
 }

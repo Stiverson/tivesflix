@@ -18,6 +18,7 @@ function PageDefault({ children }) {
     <>
       <Menu />
         <Main>
+        <link rel="icon" href="Logo.png" />
           {children}
         </Main>
       <Footer />
