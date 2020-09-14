@@ -15,7 +15,7 @@
       "cor": "red",
       "link_extra": {
         "text": "Se Liga nesses Soms",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "url": ""
       }
     },
     {
@@ -50,7 +50,7 @@
       "cor": "#efa301",
       "link_extra": {
         "text": "Videos de amigos com talentos maravilhosos",
-        "URL_TOP": ""
+        "URL_TOP": "https://www.youtube.com/channel/UC7yhAdYSgTlAfq65TnwYo5Q"
       },
       "id": 6
     },
@@ -69,14 +69,32 @@
       "id": 1,
       "categoriaId": 1,
       "titulo": "Bem Vindo ao Tivesflix",
-      "description": "Será que agora vai esse Projeto o Verdadeiro vídeo esta sendo editado",
-      "url": "https://www.youtube.com/watch?v=i_i9YR7vScw"
+      "description": "Bem vindo ao TivesFlix uma nova aplicação feita em react ",
+      "url": "https://www.youtube.com/watch?v=uSUB5Cmk70Y&t=2s"
     },
     {
       "id": 2,
       "categoriaId": 1,
       "titulo": "Teaser teaser TivesCast",
       "url": "https://www.youtube.com/watch?v=Q93yNPfnwTw&feature=youtu.be"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Tivescast - episodio piloto",
+      "url": "https://www.youtube.com/watch?v=gEGBZsbjou8"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Tivescast - Devaneio 01",
+      "url": "https://www.youtube.com/watch?v=WZ5Ju5YkAYs"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Tivescast - Devaneio 02 - ser pai",
+      "url": "https://www.youtube.com/watch?v=YCMLw7mGlqI"
     },
     {
       "id": 8,
