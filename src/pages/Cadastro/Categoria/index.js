@@ -113,10 +113,11 @@ function CadastroCategoria() {
           </li>
         ))}
       </ul>
-
+          <Button>
       <Link to="/">
         Ir para home
       </Link>
+      </Button>
     </PageDefault>
   );
 }

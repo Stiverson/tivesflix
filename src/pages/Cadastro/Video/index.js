@@ -82,6 +82,12 @@ function CadastroVideo() {
         Cadastrar Uma Nova Categoria
       </Link>
       </Button>
+
+      <Button>
+      <Link to="/">
+        Ir para home
+      </Link>
+      </Button>
     </PageDefault>
   );
 }
